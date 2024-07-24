@@ -1,5 +1,8 @@
+ATM_ZxNs 
+A 3rd Party Custom of Atmosphere's Package
+
 ```
-all of Resources from:
+All of Resources from:
   "Atmosphere-NX/Atmosphere"
   "CTCaer/hekate"
   "zerofo/nx-ovlloader"
