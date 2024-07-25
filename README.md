@@ -1,8 +1,26 @@
-ATM_ZxNs 
-A 3rd Party Custom of Atmosphere's Package
+## ATM_ZxNs 
+####  一个个人自用的大气层整合包.
+### 说明
+Tesla 快捷键: L + UP
 
+### 配置
+#### 首次使用 需要 
+1. L + UP 唤出 Tesla
+   [![Tesla](screenshot/tesla.jpg)]
+2. 找到 Sysmodules
+   [![sys-patch](screenshot/sys-patch.jpg)]
+3. 找到 sys-patch 
+   [![sys-patch](screenshot/sys-patch2.jpg)]
+    按 Y 开启自启.
+    按 A, off 变成 on.
+ 
+**第一次使用执行以上即可.**
+ 
+ 
+ 
+ 
+ All of Resources from:
 ```
-All of Resources from:
   "Atmosphere-NX/Atmosphere"
   "CTCaer/hekate"
   "zerofo/nx-ovlloader"
