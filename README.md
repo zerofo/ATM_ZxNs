@@ -6,11 +6,11 @@ Tesla 快捷键: L + UP
 ### 配置
 #### 首次使用 需要 
 1. L + UP 唤出 Tesla
-   [![Tesla](screenshot/tesla.jpg)]
+   ![Tesla](screenshot/tesla.jpg)
 2. 找到 Sysmodules
-   [![sys-patch](screenshot/sys-patch.jpg)]
+   ![sys-patch](screenshot/sys-patch.jpg)
 3. 找到 sys-patch 
-   [![sys-patch](screenshot/sys-patch2.jpg)]
+   ![sys-patch](screenshot/sys-patch-on.jpg)
     按 Y 开启自启.
     按 A, off 变成 on.
  
