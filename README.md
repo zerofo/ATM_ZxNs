@@ -46,7 +46,7 @@ Tesla 快捷键: L + UP
   "fortheusers/hb-appstore"
   "tomvita/Zing"
   "masagrator/FPSLocker"
-  "zerofo/InfoNX"
+  #"zerofo/InfoNX"
   "zerofo/EdiZon-Overlay"
   #"proferabg/EdiZon-Overlay"
   "spacemeowx2/ldn_mitm"
